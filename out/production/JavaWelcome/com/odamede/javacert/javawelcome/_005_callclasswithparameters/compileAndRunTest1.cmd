@@ -1,0 +1,2 @@
+javac CallClassWithParameters.java
+java CallClassWithParameters param1 param2
