@@ -1,4 +1,4 @@
-package com.odamede._004_classwithmainmethod;
+package com.odamede.javacert.javawelcome._004_classwithmainmethod;
 
 // This is the simples class with main method
 // JVM can call this code

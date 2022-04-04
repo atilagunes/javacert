@@ -1,4 +1,4 @@
-package com.odamede.classwithfieldsandmethods;
+package com.odamede.javacert.javawelcome._003_classwithfieldsandmethods;
 
 public class ClassWithFieldsAndMethods {
     String name;

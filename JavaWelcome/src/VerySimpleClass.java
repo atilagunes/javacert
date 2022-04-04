@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class VerySimpleClass {
+/*
+The Simplest Java Class
+No Constructor, No variables, No method
+ */
+
+public class VerySimpleClass {
+
 }

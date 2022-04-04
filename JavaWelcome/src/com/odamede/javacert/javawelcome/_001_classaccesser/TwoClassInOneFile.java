@@ -1,4 +1,4 @@
-package com.odamede.classaccesser;
+package com.odamede.javacert.javawelcome._001_classaccesser;
 
 // One class is allowed to be public
 public class TwoClassInOneFile {
